@@ -3,6 +3,8 @@
 As we are dealing with large volume, velocity, and variety of data, the veracity, and the value we derive from it has been of prime importance.
 False information is easy to spread and can have a significant impact on genuine people or customers. Like other sectors, the job market has also been impacted by it.
 
+[Data Source](http://emscad.samos.aegean.gr/)
+
 # Problem Translation & Solution
 One of the approches to tackle this problem is to detect the fake jobs posting early and accurately and thereby flagging them or removing from the system.
 
